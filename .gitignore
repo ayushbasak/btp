@@ -1,4 +1,3 @@
 *.npz
-images
 *.png
 .ipynb_checkpoints
